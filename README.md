@@ -1,2 +1,1 @@
-# SnInstanceChanger
-SnInstanceChanger
+Simplify your ServiceNow work! ‍
